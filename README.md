@@ -1,0 +1,2 @@
+This is the first project of The Odin Project. This project will showcase what I learned about HTML through creating a barebones website that displays a few recipes.
+This project allows me to exercise what I have learned about setting up a webpage, utilizing headers and text, using lists (ordered and unordered), and making use of images and links.
